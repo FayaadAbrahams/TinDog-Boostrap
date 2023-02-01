@@ -13,3 +13,19 @@ line-height: 1.5;
 .container-fluid{
     padding: 3% 15%;
 }
+
+.rotate90 {
+    -webkit-transform: rotate(25deg);
+    -moz-transform: rotate(25deg);
+    -ms-transform: rotate(25deg);
+    -o-transform: rotate(25deg);
+    transform: rotate(25deg);
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
+#title{
+    color: #fff;
+}
